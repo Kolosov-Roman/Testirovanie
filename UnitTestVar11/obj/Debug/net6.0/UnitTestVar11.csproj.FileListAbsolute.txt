@@ -1,0 +1,30 @@
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.exe
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.deps.json
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.runtimeconfig.json
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.dll
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.pdb
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.csproj.AssemblyReference.cache
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.AssemblyInfoInputs.cache
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.AssemblyInfo.cs
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.csproj.CoreCompileInputs.cache
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.dll
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\refint\UnitTestVar11.dll
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.pdb
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.genruntimeconfig.cache
+C:\Users\FEDPo\Documents\Тестирование\UnitTestVar11\UnitTestVar11\obj\Debug\net6.0\ref\UnitTestVar11.dll
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.exe
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.deps.json
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.runtimeconfig.json
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.dll
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\bin\Debug\net6.0\UnitTestVar11.pdb
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.csproj.AssemblyReference.cache
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.AssemblyInfoInputs.cache
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.AssemblyInfo.cs
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.csproj.CoreCompileInputs.cache
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.dll
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\refint\UnitTestVar11.dll
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.pdb
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\UnitTestVar11.genruntimeconfig.cache
+D:\Работы по C#\18 Unit-Test\UnitTestVar11\obj\Debug\net6.0\ref\UnitTestVar11.dll
